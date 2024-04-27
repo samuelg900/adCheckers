@@ -1,23 +1,5 @@
 [
   {
-    "text": "The game is played on an 8x8 grid."
-  },
-  {
-    "text": "Players place their pieces on the dark squares of the board."
-  },
-    {
-    "text": "Pieces can only move diagonally on the dark squares."
-  },
-  {
-    "text": "A piece eats an opponent's piece when it jumps it and lands on an empty space."
-  },
-  {
-    "text": "Players can move up and down diagonally when a piece becomes King."
-  },
-  {
-    "text": "A piece becomes King when it reaches the end of the board."
-  },  
-  {
-    "text": "A player wins when they eat all of the opponent's pieces."
+    "text": "The game is played on an 8x8 grid.\nPlayers place their pieces on the dark squares of the board.\nPieces can only move diagonally on the dark squares.\nA piece eats an opponent's piece when it jumps it and lands on an empty space.\nPlayers can move up and down diagonally when a piece becomes King.\nA piece becomes King when it reaches the end of the board.\nA player wins when they eat all of the opponent's pieces."
   }
 ]
